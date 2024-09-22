@@ -1,0 +1,18 @@
+This project focuses on the analysis of global black money movement using data analytics techniques. It aims to uncover patterns, identify anomalies, and provide insights into the illicit financial flows across different regions. The analysis leverages various machine learning models and statistical tools to detect and predict suspicious transactions that may indicate money laundering or tax evasion activities.
+
+Key Features:
+Data preprocessing and exploration for handling missing or incomplete data.
+Anomaly detection models to flag unusual financial activity.
+Geographical and sectoral analysis of black money movement.
+Visualizations of illicit financial flows for better understanding and reporting.
+Technologies:
+Python (Pandas, NumPy, Scikit-learn)
+Machine Learning (Random Forest, SVM, K-Means)
+Data Visualization (Matplotlib, Seaborn)
+Statistical Analysis
+Objective:
+To provide a comprehensive analysis of global black money trends and help governments and organizations in identifying key indicators of financial misconduct.
+
+Feel free to explore the code, data, and results. Contributions are welcome!
+
+- AYUSH THOMBARE | PAYAL SAWANT
